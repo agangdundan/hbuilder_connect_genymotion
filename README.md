@@ -14,3 +14,4 @@
 7. step5.bat（获取Genymotion下的设备信息、结束adb进程）
 8. step6.bat（开启连接及启动HBuilder）
 
+待补充.
